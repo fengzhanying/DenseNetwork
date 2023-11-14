@@ -1,2 +1,2 @@
 # DenseNetwork
-This is a example showing how to extract dense TF network from a TF-TG regulatory network
+This is an example showing how to extract dense TF network from a TF-TG regulatory network
